@@ -1,4 +1,5 @@
 # Calc. Matrizes 3x3
 uma simples calculadora de matrizes.
 
-![image](cmtz.png)
+![image](img1.png)
+![image](img2.png)
